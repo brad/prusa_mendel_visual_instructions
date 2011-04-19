@@ -1,0 +1,12 @@
+.project
+.texlipse
+.~*
+*~
+*.aux
+*.dvi
+*.idx
+*.ilg
+*.ind
+*.log
+*.pdf
+*.toc
