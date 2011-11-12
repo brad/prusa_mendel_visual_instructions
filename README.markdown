@@ -4,10 +4,9 @@ Files used in the creation of a visual instruction guide for the [Prusa Mendel](
 
 This project contains:
 	
-*   src/Prusa Mendel Visual Instructions.pub - Document source in Microsoft Publisher format
+*   src/Prusa_Mendel_Visual_Instructions.tex - Document source in Latex format
 *   src/models/Prusa Mendel.skp" - Google Sketchup 8 Model of Prusa Mendel
-
-Because of the amount and size of the original PNG files these have not been included in this repository.  They are available on request.
+*   src/graphics/*.png - Graphics for the document
 
 Licensing
 ----------
